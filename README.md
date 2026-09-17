@@ -10,9 +10,9 @@ Lab slide decks covering an isolated malware-analysis sandbox, offline Windows S
 
 | File | Lab | Topics |
 | --- | --- | --- |
-| [slides/lab-04-malware-sandbox-virtualbox.pptx](slides/lab-04-malware-sandbox-virtualbox.pptx) | Lab 4 | VirtualBox sandbox, FlareVM, REMnux, INetSim, static vs dynamic analysis |
-| [slides/lab-07-kali-live-windows-sam.pptx](slides/lab-07-kali-live-windows-sam.pptx) | Lab 7 | Kali Live USB (forensic mode), offline SAM / credential-store inspection in a controlled lab |
-| [slides/lab-x64dbg-malware-analysis.pptx](slides/lab-x64dbg-malware-analysis.pptx) | Extra | x64dbg, Detect It Easy, PE analysis, breakpoints, strings, control flow |
+| [Lab 4 — malware sandbox](Application%20and%20websecurity%20EXP-4.pptx) | Lab 4 | VirtualBox, FlareVM, REMnux, INetSim |
+| [Lab 7 — Kali SAM lab](Application%20and%20websecurity%20exp%20-%207.pptx) | Lab 7 | Kali live (forensic mode), SAM inspection |
+| [x64dbg analysis](Step-by-step%20Malware%20Analysis%20Using%20x64dbg.pptx) | Extra | x64dbg, Detect It Easy |
 
 ## How to use
 
